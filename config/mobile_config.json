@@ -1,0 +1,21 @@
+{
+  "envs": ["prod", "stage"],
+  "view_ports": ["414x695"],
+  "urls": [
+    {
+      "name": "city_homepage",
+      "prod": "https://www.homebazaar.com/buy/properties-in-pune",
+      "stage": "https://www.nginx.yourhomekart.in/buy/properties-in-pune"
+    },
+    {
+      "name": "buy_searchpage",
+      "prod": "https://www.homebazaar.com/buy/bangalore",
+      "stage": "https://www.nginx.yourhomekart.in/buy/bangalore"
+    },
+    {
+      "name": "buy_pdppage",
+      "prod": "https://www.homebazaar.com/buy/property/mumbai/lodha-codename-premier/4620",
+      "stage": "https://www.nginx.yourhomekart.in/buy/property/mumbai/lodha-codename-premier/4620"
+    }
+  ]
+}

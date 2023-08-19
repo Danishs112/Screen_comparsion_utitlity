@@ -1,0 +1,16 @@
+{
+  "name": "screenshot-compare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pageres": "^6.3.0",
+    "pixelmatch": "^5.2.1",
+    "resemblejs": "^4.0.1"
+  }
+}

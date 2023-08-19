@@ -1,0 +1,202 @@
+{
+  "envs": ["prod", "stage"],
+  "view_ports": ["1280x720", "1440x900", "1920x1080", "4480x2520"],
+  "urls": [
+    {
+      "name": "city_homepage",
+      "prod": "https://www.homebazaar.com/buy/pune",
+      "stage": "https://www.staging.yourhomekart.in/buy/pune"
+    },
+    {
+      "name": "buy_searchpage",
+      "prod": "https://www.homebazaar.com/buy/properties-in-bangalore",
+      "stage": "https://www.staging.yourhomekart.in/buy/properties-in-bangalore"
+    },
+    {
+      "name": "buy_pdppage",
+      "prod": "https://www.homebazaar.com/buy/lodha-codename-premier-property-dombivali-mumbai-4620",
+      "stage": "https://www.staging.yourhomekart.in/buy/lodha-codename-premier-property-dombivali-mumbai-4620"
+    },
+    {
+      "name": "builderpage",
+      "prod": "https://www.homebazaar.com/builders/lodha-group",
+      "stage": "https://www.staging.yourhomekart.in/builders/lodha-group"
+    },
+    {
+      "name": "rent_searchpage",
+      "prod": "https://www.homebazaar.com/rent/properties-in-bangalore",
+      "stage": "https://www.staging.yourhomekart.in/rent/properties-in-bangalore"
+    },
+
+    {
+      "name": "city_builderspage",
+      "prod": "https://www.homebazaar.com/builders-in-mumbai",
+      "stage": "https://www.staging.yourhomekart.in/builders-in-mumbai"
+    },
+    {
+      "name": "aboutuspage",
+      "prod": "https://www.homebazaar.com/about-us",
+      "stage": "https://www.staging.yourhomekart.in/about-us"
+    },
+    {
+      "name": "awardspage",
+      "prod": "https://www.homebazaar.com/awards",
+      "stage": "https://www.staging.yourhomekart.in/awards"
+    },
+    {
+      "name": "brokerservicespage",
+      "prod": "https://www.homebazaar.com/broker-services",
+      "stage": "https://www.staging.yourhomekart.in/broker-services"
+    },
+    {
+      "name": "builderservicespage",
+      "prod": "https://www.homebazaar.com/builder-services",
+      "stage": "https://www.staging.yourhomekart.in/builder-services"
+    },
+    {
+      "name": "covid19precautionspage",
+      "prod": "https://www.homebazaar.com/covid19-precautions",
+      "stage": "https://www.staging.yourhomekart.in/covid19-precautions"
+    },
+    {
+      "name": "homebuyingguidepage",
+      "prod": "https://www.homebazaar.com/home-buying-guide",
+      "stage": "https://www.staging.yourhomekart.in/home-buying-guide"
+    },
+    {
+      "name": "homeload_eligbility_calc_page",
+      "prod": "https://www.homebazaar.com/home-loan-eligibility-calculator",
+      "stage": "https://www.staging.yourhomekart.in/home-loan-eligibility-calculator"
+    },
+    {
+      "name": "home_loan_emi_calc_page",
+      "prod": "https://www.homebazaar.com/home-loan-emi-calculator",
+      "stage": "https://www.staging.yourhomekart.in/home-loan-emi-calculator"
+    },
+    {
+      "name": "home_selling_guide_page",
+      "prod": "https://www.homebazaar.com/home-selling-guide",
+      "stage": "https://www.staging.yourhomekart.in/home-selling-guide"
+    },
+    {
+      "name": "home_worth_calculator",
+      "prod": "https://www.homebazaar.com/home-worth-calculator",
+      "stage": "https://www.staging.yourhomekart.in/home-worth-calculator"
+    },
+    {
+      "name": "nobrokerage_policy_page",
+      "prod": "https://www.homebazaar.com/no-brokerage-policy",
+      "stage": "https://www.staging.yourhomekart.in/no-brokerage-policy"
+    },
+    {
+      "name": "privacy_policy_page",
+      "prod": "https://www.homebazaar.com/privacy-policy",
+      "stage": "https://www.staging.yourhomekart.in/privacy-policy"
+    },
+    {
+      "name": "property_rental_owner_services_page",
+      "prod": "https://www.homebazaar.com/property-rental-owner-services",
+      "stage": "https://www.staging.yourhomekart.in/property-rental-owner-services"
+    },
+    {
+      "name": "property_renting_guide_page",
+      "prod": "https://www.homebazaar.com/property-renting-guide",
+      "stage": "https://www.staging.yourhomekart.in/property-renting-guide"
+    },
+    {
+      "name": "property_resale_owner_services_page",
+      "prod": "https://www.homebazaar.com/property-resale-owner-services",
+      "stage": "https://www.staging.yourhomekart.in/property-resale-owner-services"
+    },
+    {
+      "name": "rent_with_homebazaar_page",
+      "prod": "https://www.homebazaar.com/rent-a-property",
+      "stage": "https://www.staging.yourhomekart.in/rent-a-property"
+    },
+    {
+      "name": "sell_with_homebazaar_page",
+      "prod": "https://www.homebazaar.com/post-property",
+      "stage": "https://www.staging.yourhomekart.in/post-property"
+    },
+    {
+      "name": "signup_page",
+      "prod": "https://www.homebazaar.com/sign-up",
+      "stage": "https://www.staging.yourhomekart.in/sign-up"
+    },
+    {
+      "name": "sitemap_page",
+      "prod": "https://www.homebazaar.com/sitemap",
+      "stage": "https://www.staging.yourhomekart.in/sitemap"
+    },
+    {
+      "name": "contactus_page",
+      "prod": "https://www.homebazaar.com/contactus",
+      "stage": "https://www.staging.yourhomekart.in/contactus"
+    },
+    {
+      "name": "ourculture_page",
+      "prod": "https://www.homebazaar.com/our-culture",
+      "stage": "https://www.staging.yourhomekart.in/our-culture"
+    },
+    {
+      "name": "homeloans",
+      "prod": "https://www.homebazaar.com/homeloans",
+      "stage": "https://www.staging.yourhomekart.in/homeloans"
+    },
+    {
+      "name": "buy_a_property page",
+      "prod": "https://www.homebazaar.com/buy-a-property",
+      "stage": "https://www.staging.yourhomekart.in/buy-a-property"
+    },
+    {
+      "name": "knowledge",
+      "prod": "https://www.homebazaar.com/knowledge/",
+      "stage": "https://www.staging.yourhomekart.in/knowledge"
+    },
+    {
+      "name": "locality_page",
+      "prod": "https://www.homebazaar.com/buy/properties-in-kandivali-mumbai",
+      "stage": "https://www.staging.yourhomekart.in/buy/properties-in-kandivali-mumbai"
+    },
+    {
+      "name": "resale_page",
+      "prod": "https://www.homebazaar.com/buy/resale-properties-in-bangalore",
+      "stage": "https://www.staging.yourhomekart.in/buy/resale-properties-in-bangalore"
+    },
+    {
+      "name": "1BHK_page",
+      "prod": "https://www.homebazaar.com/buy/1bhk-flats-in-thane-mumbai",
+      "stage": "https://www.staging.yourhomekart.in/buy/1bhk-flats-in-thane-mumbai"
+    },
+    {
+      "name": "villa_page",
+      "prod": "https://www.homebazaar.com/buy/villa-in-mumbai",
+      "stage": "https://www.staging.yourhomekart.in/buy/villa-in-mumbai"
+    },
+    {
+      "name": "budget_page",
+      "prod": "https://www.homebazaar.com/rent/flats-under-50-thousand-in-kandivali-mumbai",
+      "stage": "https://www.staging.yourhomekart.in/rent/flats-under-50-thousand-in-kandivali-mumbai"
+    },
+    {
+      "name": "rent_homepage",
+      "prod": "https://www.homebazaar.com/rent/mumbai",
+      "stage": "https://www.staging.yourhomekart.in/rent/mumbai"
+    },
+    {
+      "name": "rent_pdppage",
+      "prod": "https://www.homebazaar.com/rent/3bhk-1200-sq-ft-apartment-for-rent-indiabulls-greens-property-panvel-mumbai-5525",
+      "stage": "https://www.staging.yourhomekart.in/rent/3bhk-1200-sq-ft-apartment-for-rent-indiabulls-greens-property-panvel-mumbai-5525"
+    },
+    {
+      "name": "commerical_pdp_page",
+      "prod": "https://www.homebazaar.com/buy/rustomjee-central-park-property-andheri-mumbai-1868",
+      "stage": "https://www.staging.yourhomekart.in/buy/rustomjee-central-park-property-andheri-mumbai-1868"
+    },
+    {
+      "name": "resale_pdp_page",
+      "prod": "https://www.homebazaar.com/buy/resale-4bhk-2020-sq-ft-apartment-for-resale-hiranandani-one-park-property-ghodbunder-road-mumbai-5692",
+      "stage": "https://www.staging.yourhomekart.in/buy/resale-4bhk-2020-sq-ft-apartment-for-resale-hiranandani-one-park-property-ghodbunder-road-mumbai-5692"
+    }
+  ]
+}

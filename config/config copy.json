@@ -1,0 +1,286 @@
+{
+  "envs": ["prod", "stage"],
+  "view_ports": ["1280x720", "1440x900", "1920x1080", "4480x2520"],
+  "urls": [
+    {
+      "name": "city_homepage",
+      "prod": "https://www.homebazaar.com/buy/properties-in-pune",
+      "stage": "https://www.staging.yourhomekart.in/buy/properties-in-pune"
+    },
+    {
+      "name": "buy_searchpage",
+      "prod": "https://www.homebazaar.com/buy/bangalore",
+      "stage": "https://www.staging.yourhomekart.in/buy/bangalore"
+    },
+    {
+      "name": "buy_pdppage",
+      "prod": "https://www.homebazaar.com/buy/property/mumbai/lodha-codename-premier/4620",
+      "stage": "https://www.staging.yourhomekart.in/buy/property/mumbai/lodha-codename-premier/4620"
+    },
+    {
+      "name": "buy_builderpage",
+      "prod": "https://www.homebazaar.com/buy/builders/lodha-group",
+      "stage": "https://www.staging.yourhomekart.in/buy/builders/lodha-group"
+    },
+    {
+      "name": "buy_standardaboutpage",
+      "prod": "https://www.homebazaar.com/buy/mumbai/about-panvel",
+      "stage": "https://www.staging.yourhomekart.in/buy/mumbai/about-panvel"
+    },
+    {
+      "name": "buy_aboutpage",
+      "prod": "https://www.homebazaar.com/buy/mumbai/about-navi-mumbai",
+      "stage": "https://www.staging.yourhomekart.in/buy/mumbai/about-navi-mumbai"
+    },
+    {
+      "name": "rent_pdppage",
+      "prod": "https://www.homebazaar.com/rent/property/mumbai/hiranandani-gardens/4907",
+      "stage": "https://www.homebazaar.com/rent/property/mumbai/hiranandani-gardens/4907"
+    },
+    {
+      "name": "rent_builderpage",
+      "prod": "https://www.homebazaar.com/rent/builders/lodha-group",
+      "stage": "https://www.staging.yourhomekart.in/rent/builders/lodha-group"
+    },
+    {
+      "name": "rent_standardaboutpage",
+      "prod": "https://www.homebazaar.com/rent/mumbai/about-panvel",
+      "stage": "https://www.staging.yourhomekart.in/rent/mumbai/about-panvel"
+    },
+    {
+      "name": "rent_aboutpage",
+      "prod": "https://www.homebazaar.com/rent/mumbai/about-navi-mumbai",
+      "stage": "https://www.staging.yourhomekart.in/rent/mumbai/about-navi-mumbai"
+    },
+    {
+      "name": "city_builderspage",
+      "prod": "https://www.homebazaar.com/builders/mumbai",
+      "stage": "https://www.staging.yourhomekart.in/builders/mumbai"
+    },
+    {
+      "name": "aboutuspage",
+      "prod": "https://www.homebazaar.com/about-us",
+      "stage": "https://www.staging.yourhomekart.in/about-us"
+    },
+    {
+      "name": "awardspage",
+      "prod": "https://www.homebazaar.com/awards",
+      "stage": "https://www.staging.yourhomekart.in/awards"
+    },
+    {
+      "name": "brokerservicespage",
+      "prod": "https://www.homebazaar.com/broker-services",
+      "stage": "https://www.staging.yourhomekart.in/broker-services"
+    },
+    {
+      "name": "builderservicespage",
+      "prod": "https://www.homebazaar.com/builder-services",
+      "stage": "https://www.staging.yourhomekart.in/builder-services"
+    },
+    {
+      "name": "covid19precautionspage",
+      "prod": "https://www.homebazaar.com/covid19-precautions",
+      "stage": "https://www.staging.yourhomekart.in/covid19-precautions"
+    },
+    {
+      "name": "homebuyingguidepage",
+      "prod": "https://www.homebazaar.com/home-buying-guide",
+      "stage": "https://www.staging.yourhomekart.in/home-buying-guide"
+    },
+    {
+      "name": "homeload_eligbility_calc_page",
+      "prod": "https://www.homebazaar.com/home-loan-eligibility-calculator",
+      "stage": "https://www.staging.yourhomekart.in/home-loan-eligibility-calculator"
+    },
+    {
+      "name": "home_loan_emi_calc_page",
+      "prod": "https://www.homebazaar.com/home-loan-emi-calculator",
+      "stage": "https://www.staging.yourhomekart.in/home-loan-emi-calculator"
+    },
+    {
+      "name": "home_selling_guide_page",
+      "prod": "https://www.homebazaar.com/home-selling-guide",
+      "stage": "https://www.staging.yourhomekart.in/home-selling-guide"
+    },
+    {
+      "name": "home_worth_calculator",
+      "prod": "https://www.homebazaar.com/home-worth-calculator",
+      "stage": "https://www.staging.yourhomekart.in/home-worth-calculator"
+    },
+    {
+      "name": "nobrokerage_policy_page",
+      "prod": "https://www.homebazaar.com/no-brokerage-policy",
+      "stage": "https://www.staging.yourhomekart.in/no-brokerage-policy"
+    },
+    {
+      "name": "privacy_policy_page",
+      "prod": "https://www.homebazaar.com/privacy-policy",
+      "stage": "https://www.staging.yourhomekart.in/privacy-policy"
+    },
+    {
+      "name": "property_rental_owner_services_page",
+      "prod": "https://www.homebazaar.com/property-rental-owner-services",
+      "stage": "https://www.staging.yourhomekart.in/property-rental-owner-services"
+    },
+    {
+      "name": "property_renting_guide_page",
+      "prod": "https://www.homebazaar.com/property-renting-guide",
+      "stage": "https://www.staging.yourhomekart.in/property-renting-guide"
+    },
+    {
+      "name": "property_resale_owner_services_page",
+      "prod": "https://www.homebazaar.com/property-resale-owner-services",
+      "stage": "https://www.staging.yourhomekart.in/property-resale-owner-services"
+    },
+    {
+      "name": "rent_with_homebazaar_page",
+      "prod": "https://www.homebazaar.com/rent-with-HomeBazaar",
+      "stage": "https://www.staging.yourhomekart.in/rent-with-HomeBazaar"
+    },
+    {
+      "name": "sell_with_homebazaar_page",
+      "prod": "https://www.homebazaar.com/sell-with-HomeBazaar",
+      "stage": "https://www.staging.yourhomekart.in/sell-with-HomeBazaar"
+    },
+    {
+      "name": "signup_page",
+      "prod": "https://www.homebazaar.com/sign-up",
+      "stage": "https://www.staging.yourhomekart.in/sign-up"
+    },
+    {
+      "name": "sitemap_page",
+      "prod": "https://www.homebazaar.com/sitemap",
+      "stage": "https://www.staging.yourhomekart.in/sitemap"
+    },
+    {
+      "name": "support_page",
+      "prod": "https://www.homebazaar.com/support",
+      "stage": "https://www.staging.yourhomekart.in/support"
+    },
+    {
+      "name": "contactus_page",
+      "prod": "https://www.homebazaar.com/contactus",
+      "stage": "https://www.staging.yourhomekart.in/contactus"
+    },
+    {
+      "name": "ourculture_page",
+      "prod": "https://www.homebazaar.com/our-culture",
+      "stage": "https://www.staging.yourhomekart.in/our-culture"
+    },
+    {
+      "name": "admin_home",
+      "prod": "https://myaccount.homebazaar.com/home",
+      "stage": "https://stagingmyaccount.yourhomekart.in/home"
+    },
+    {
+      "name": "admin_shortlisted_properties",
+      "prod": "https://myaccount.homebazaar.com/wishlists/list",
+      "stage": "https://stagingmyaccount.yourhomekart.in/wishlists/list"
+    },
+    {
+      "name": "admin_scheduled_tours",
+      "prod": "https://myaccount.homebazaar.com/leads/slist",
+      "stage": "https://stagingmyaccount.yourhomekart.in/leads/slist"
+    },
+    {
+      "name": "admin_my_profile",
+      "prod": "https://myaccount.homebazaar.com/complete_profile",
+      "stage": "https://stagingmyaccount.yourhomekart.in/complete_profile"
+    },
+    {
+      "name": "admin_my_properties",
+      "prod": "https://myaccount.homebazaar.com/properties/list",
+      "stage": "https://stagingmyaccount.yourhomekart.in/properties/list"
+    },
+    {
+      "name": "admin_my_leads",
+      "prod": "https://myaccount.homebazaar.com/leads/list",
+      "stage": "https://stagingmyaccount.yourhomekart.in/leads/list"
+    },
+    {
+      "name": "admin_list_your_property",
+      "prod": "https://myaccount.homebazaar.com/properties/add",
+      "stage": "https://stagingmyaccount.yourhomekart.in/properties/add"
+    },
+    {
+      "name": "admin_list_your_property_(resale)",
+      "prod": "https://myaccount.homebazaar.com/properties/add?category=resale",
+      "stage": "https://stagingmyaccount.yourhomekart.in/properties/add?category=resale"
+    },
+    {
+      "name": "admin_list_your_property_(rent)",
+      "prod": "https://myaccount.homebazaar.com/properties/add?category=rent",
+      "stage": "https://stagingmyaccount.yourhomekart.in/properties/add?category=rent"
+    },
+    {
+      "name": "admin_under_review_properties",
+      "prod": "https://myaccount.homebazaar.com/edit_logs/edit_approval_project",
+      "stage": "https://stagingmyaccount.yourhomekart.in/edit_logs/edit_approval_project"
+    },
+    {
+      "name": "admin_under_screening_properties",
+      "prod": "https://myaccount.homebazaar.com/properties/ulist",
+      "stage": "https://stagingmyaccount.yourhomekart.in/properties/ulist"
+    },
+    {
+      "name": "admin_weekly_deals_update",
+      "prod": "https://myaccount.homebazaar.com/reports/deal-of-the-week",
+      "stage": "https://stagingmyaccount.yourhomekart.in/reports/deal-of-the-week"
+    },
+    {
+      "name": "admin_consolidated_report",
+      "prod": "https://myaccount.homebazaar.com/reports/report-summary",
+      "stage": "https://stagingmyaccount.yourhomekart.in/reports/report-summary"
+    },
+    {
+      "name": "admin_all_in_price",
+      "prod": "https://myaccount.homebazaar.com/reports/all-in-price",
+      "stage": "https://stagingmyaccount.yourhomekart.in/reports/all-in-price"
+    },
+    {
+      "name": "admin_add_builder",
+      "prod": "https://myaccount.homebazaar.com/developer/add",
+      "stage": "https://stagingmyaccount.yourhomekart.in/developer/add"
+    },
+    {
+      "name": "admin_existing_builder",
+      "prod": "https://myaccount.homebazaar.com/developer/list/0",
+      "stage": "https://stagingmyaccount.yourhomekart.in/developer/list/0"
+    },
+    {
+      "name": "admin_configuration",
+      "prod": "https://myaccount.homebazaar.com/configuration/list",
+      "stage": "https://stagingmyaccount.yourhomekart.in/configuration/list"
+    },
+    {
+      "name": "admin_banks",
+      "prod": "https://myaccount.homebazaar.com/bank/list",
+      "stage": "https://stagingmyaccount.yourhomekart.in/bank/list"
+    },
+    {
+      "name": "admin_image_type_catagory",
+      "prod": "https://myaccount.homebazaar.com/image_type_categories/list",
+      "stage": "https://stagingmyaccount.yourhomekart.in/image_type_categories/list"
+    },
+    {
+      "name": "admin_cities",
+      "prod": "https://myaccount.homebazaar.com/city/list",
+      "stage": "https://stagingmyaccount.yourhomekart.in/city/list"
+    },
+    {
+      "name": "admin_popular_parts",
+      "prod": "https://myaccount.homebazaar.com/popular_parts/list",
+      "stage": "https://stagingmyaccount.yourhomekart.in/popular_parts/list"
+    },
+    {
+      "name": "admin_localities",
+      "prod": "https://myaccount.homebazaar.com/localities/list",
+      "stage": "https://stagingmyaccount.yourhomekart.in/localities/list"
+    },
+    {
+      "name": "admin_sublocalities",
+      "prod": "https://myaccount.homebazaar.com/sub-locality/list",
+      "stage": "https://stagingmyaccount.yourhomekart.in/sub-locality/list"
+    }
+  ]
+}
