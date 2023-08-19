@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Screenshot Comparison Utility
 
 This utility is created for doing the screenshot comparison for two different environments. The intent is to check for any break in the design of the webpages. This utility takes screenshots of web application in multiple environments like prod and stage. After that it compares the screenshots. This utility is present in the packages folder of Homebazaar git repo. 
@@ -51,3 +52,6 @@ $ node index.js
 
 ## Possible Enhancements
 - converting this utility to cloud bases saas service (possibly AWS Lambda based) where this utility can be executed as quickly as possible. Also we should have some sort of UI where we can see the report.
+=======
+# Screen_comparsion_utitlity
+>>>>>>> 17b722d8b79043d873091587d2c1397e8ec0ae96
